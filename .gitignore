@@ -1,6 +1,5 @@
 .idea
 *.iml
 target
-code-kata.ipr
-code-kata.iws
-
+java-dojo.ipr
+java-dojo.iws
