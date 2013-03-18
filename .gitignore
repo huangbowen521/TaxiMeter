@@ -1,4 +1,6 @@
 .idea
 *.iml
 target
+code-kata.ipr
+code-kata.iws
 
